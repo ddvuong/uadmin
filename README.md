@@ -45,7 +45,7 @@ npm run dev
 ```
 7. And Done, now you are ready to start development server
 ```ruby
-php artisan server
+php artisan serve
 ```
 Open http://127.0.0.1:8000 to see it live there.
 
